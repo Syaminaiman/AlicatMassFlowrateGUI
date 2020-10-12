@@ -8,4 +8,4 @@ In order to Run this code, a few packages need to be install first. The packages
 
 Please download all files from this git repository tu Run this code smoothly. 
 The Alicat MFC A should be connected to COM3 and Alicat MFC B to COM4. 
-This variables might change depending on which COM port has been connected to each MFC. 
+This variables might be changed depending on which COM port has been connected to each MFC. 
